@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Jason Wu 👋
 
-- 🌱 I’m currently learning everything
-- I'm a Data Professional
-- I'm a Husband
-- :cat: I'm a Cat Dad
-- ⚡ I am a High-End Fashion Collector!
-- 😄 Pronouns: He/His
+- 📈 a Data Professional
+- 🌱  I’m currently learning everything
+- 👫 a Husband
+- :cat: a Cat Dad
+- ⚡ a High-End Fashion Collector!
+- 😄  Pronouns: He/His
 
 ## Connect with me:
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
