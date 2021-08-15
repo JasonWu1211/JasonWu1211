@@ -1,21 +1,18 @@
 ## Hi there, I'm Jason Wu 👋
 
+<a href="https://www.linkedin.com/in/jasonwu1211/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:jasonwu1211@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+
+<br/>
+<br/>
+
 - 📈  a Data Professional
 - 🌱  lifelong learner
 - 👫  a Husband
 - :cat:  a Cat Dad
 - ⚡  a High-End Fashion Collector
 
-## Connect with me:
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<p align='left'>
- -->
-<a href="https://www.linkedin.com/in/jasonwu1211/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:jasonwu1211@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-</p>
-
-<br />
+---
 
 ## Languages and Tools:
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -39,7 +36,7 @@
 [email]: jasonwu1211@gmail.com
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check out my Portfolio ⬇️  
   </samp>
 </p>
 
