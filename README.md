@@ -5,6 +5,8 @@
 - 👫  Husband
 - :cat: Cat Dad
 - ⚡ High-End Fashion Collector
+- 🇹🇼  Taiwanese
+- 🇺🇸  US Permanent Resident
 
 
 ## Connect with me 📬 :
