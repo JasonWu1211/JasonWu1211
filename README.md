@@ -38,4 +38,3 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
