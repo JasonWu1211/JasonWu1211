@@ -4,8 +4,7 @@
 - 🌱  lifelong learner
 - 👫  Husband
 - :cat: Cat Dad
-- ⚡ High-End Fashion Collector
-- 🇹🇼  Taiwanese
+- ⚡ High-End Fashion, Travel, Foodie
 - 🇺🇸  US Permanent Resident
 
 
