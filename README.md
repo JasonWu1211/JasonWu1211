@@ -1,6 +1,6 @@
 ## Hi there, I'm Jason Wu 👋
 
-- 📈  Data Professional
+- 📈  Full-stack Data Professional
 - 🌱  Lifelong Learner
 - 👫  Husband
 - :cat: Cat Dad
